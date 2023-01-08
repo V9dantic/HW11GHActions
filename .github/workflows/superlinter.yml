@@ -1,5 +1,6 @@
 name: Super-Linter
 
+# When to lint...
 on: push
 
 jobs:
